@@ -8,7 +8,7 @@ Library  SeleniumLibrary
 Enterprise solution
   Open Browser  https:dev.accreda.co/  chrome
   Maximize Browser Window
-  Set Selenium Speed    2s
+  Set Selenium Speed    1s
   Click Element    xpath://a[contains(text(),'Enterprise Solutions')]
   Click Element    xpath://a[contains(text(),'FLY for business')]
   Click Element    xpath://a[contains(text(),'Our Solutions')]
